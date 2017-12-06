@@ -1,0 +1,24 @@
+{
+  "name": "dailyupdate-telegram-bot",
+  "version": "1.0.0",
+  "description": "an express js app to be used as a telegram bot to send daily email updates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swshetty/dailyupdate-telegram-bot.git"
+  },
+  "author": "Swastik Shetty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swshetty/dailyupdate-telegram-bot/issues"
+  },
+  "homepage": "https://github.com/swshetty/dailyupdate-telegram-bot#readme",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
